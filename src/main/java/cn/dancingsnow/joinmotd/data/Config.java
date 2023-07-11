@@ -1,6 +1,5 @@
 package cn.dancingsnow.joinmotd.data;
 
-import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 import java.nio.file.Path;

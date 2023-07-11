@@ -99,7 +99,7 @@ public class JoinMOTD {
             startDay = new Date();
         }
         Date endDay = new Date();
-        Long num = endDay.getTime() - startDay.getTime();
+        long num = endDay.getTime() - startDay.getTime();
 
         var currentServer = event.getPlayer().getCurrentServer();
         String currentServerName = "UnKnow";
